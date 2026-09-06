@@ -27,7 +27,7 @@ const getDayType = (day) => {
   return dayType;
 };
 
-// console.log(getDayType("Bandarban"));
+// console.log(getDayType("WEDNESDAY"));
 
 //Question-03
 
@@ -41,7 +41,8 @@ const validateUsername = (name) => {
   } else return "Available";
 };
 
-// console.log(validateUsername("Admin_Rahim"));
+// console.log(validateUsername("Admin_karim"));
+//jameul.jihad00@gmail.com
 
 //Question-04
 const getCngFare = (distance, isNight, waitingMinutes) => {

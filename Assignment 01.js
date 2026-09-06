@@ -42,7 +42,7 @@ const validateUsername = (name) => {
 };
 
 // console.log(validateUsername("Admin_karim"));
-//jameul.jihad00@gmail.com
+//jameul.jihad00
 
 //Question-04
 const getCngFare = (distance, isNight, waitingMinutes) => {

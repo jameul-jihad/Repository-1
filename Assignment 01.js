@@ -1,7 +1,7 @@
 //Question-01
 const describeValue = (value) => {
-  const boolen = value ? "truthy" : "falsy";
-  return `${typeof value} | ${boolen}`;
+  const tool = value ? "truthy" : "falsy";
+  return `${typeof value} | ${tool}`;
 };
 
 // console.log(describeValue(undefined));
